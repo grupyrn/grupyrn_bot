@@ -1,0 +1,2 @@
+loguru==0.2.5
+python-telegram-bot==11.1.0
